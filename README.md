@@ -7,7 +7,7 @@
 
 ## Project Description
 
-    This is a webstore that sells a variety of items.
+    This is a webstore, that sells a variety of items.
 
 ## How to Run
 
