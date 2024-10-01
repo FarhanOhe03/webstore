@@ -1,0 +1,40 @@
+.account-title {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.container {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    background-color: var(--form-bg);
+    width: 50%;
+    height: 600px;
+    top: 40px;
+    right: 0%;
+    margin: auto;
+    margin-bottom: 100px;
+    border-radius: 16px;
+    padding: 20px;
+    justify-content: center;
+    box-shadow: 0 0 5px 2px var(--form-bg-accent);
+    text-align: center;
+    color: var(--text-primary);
+}
+
+.container form input {
+    background-color: #ffffff;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 5px;
+    border: 2px solid #cacaca;
+    color: #000000;
+    width: 70%;
+    height: 20%;
+    padding: 8px;
+    margin: 4px;
+}
+
+.underline {
+  text-decoration: underline;
+}
